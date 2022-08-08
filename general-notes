@@ -1,0 +1,12 @@
+general notes used to think about plan write about anything that is not in the code
+
+document object model
+
+it is a built in object that is used to manipulate content, style and structure of a web page
+
+think of the entire thing as a tree of nodes
+
+EVERYTHING IS A NODE
+element, attributes, text content, even line breaks and comments are considered nodes in the DOM 
+
+ZZ
